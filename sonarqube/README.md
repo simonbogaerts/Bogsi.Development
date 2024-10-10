@@ -1,8 +1,7 @@
 # Sonarqube 
 
 Local SonarQube community version installation.
-https://github.com/emad-zaamout/SonarQube-Dockerized
-https://www.youtube.com/watch?v=PgHIVt_S6PE
+
 
 ## Prerequisites
 
